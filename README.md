@@ -1,5 +1,9 @@
 # Tinkerino
 Vertical scrolling game developed by Team Tinker using Java
-'\n'Version 1.01 '\n' 
+
+
+Version 1.01
+
+
 Bug: Game crashes when user wins multiple times.
 
